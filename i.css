@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    background: #b37070;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: right;
+}
+p{
+    text-align: right;
+}
+a{
+    text-align: center;
+}
+.Chen{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
